@@ -1,0 +1,23 @@
+body {
+  background: mediumaquamarine;
+  color: white;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+}
+h1 {
+  text-align: center;
+  padding-top: 5em;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+button {
+  display: block;
+}
+
+textarea {
+  font-size: 15pt;
+}
